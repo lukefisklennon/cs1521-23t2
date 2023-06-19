@@ -1,5 +1,4 @@
-# COMP1521 23T2 M18B
-
+## COMP1521 23T2 M18B
 Important links:
 
 - [Week 3-10 whiteboard](https://miro.com/app/board/uXjVM_rtKso=)
